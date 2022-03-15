@@ -27,7 +27,6 @@ namespace ACGT
             catch
             {
                 Console.WriteLine("Exit");
-                Environment.Exit(0);
                 return "0";
             }
         }
